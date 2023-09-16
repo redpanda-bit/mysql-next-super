@@ -1,6 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+Requirements:
+MySQL server running locally with user credentials below:
+
+```javascript
+{
+    user: "ghdbuser",
+    password: "K)9jWIcY892}",
+}
+```
 
 First, run the development server:
 
